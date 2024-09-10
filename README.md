@@ -18,10 +18,6 @@ En una ventana de la terminal ubicas la raíz del proyecto
 - Instalamos dependencias con el siguiente comando (debe el sistema tener deshabilitadas las "Excecution policy) 
 npm i
 - Corremos el proyecto con alguno de estos comandos
-npm run dev
 npm start
 - Visitar "localhost:" con el puerto asignado
-
-## Deploy en producción
--
 
