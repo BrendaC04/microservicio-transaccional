@@ -26,7 +26,6 @@ const contactoSchema = mongoose.Schema({
   cargo: String,
 });
 
-// Modelo para los contactos (nota que el nombre de la colección sigue siendo 'Usuario')
 const Contacto = mongoose.model('Usuario', contactoSchema);
 
 app.get("/", async function (req, res) {
